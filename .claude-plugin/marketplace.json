@@ -1,0 +1,13 @@
+{
+  "name": "mattpocock-skills",
+  "owner": {
+    "name": "Matt Pocock"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-skills",
+      "source": ".",
+      "description": "Matt Pocock's Claude Code skills for real engineering work"
+    }
+  ]
+}
